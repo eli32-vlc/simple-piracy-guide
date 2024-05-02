@@ -1,0 +1,11 @@
+run = "mkdocs serve"
+entrypoint = "README.md"
+modules = ["python-3.10:v25-20230920-d4ad2e4"]
+
+[nix]
+channel = "stable-23_11"
+
+[[ports]]
+localPort = 8000
+externalPort = 80
+exposeLocalhost = true

@@ -1,0 +1,17 @@
+site_name: Simple Piracy Guide
+copyright: © Eason Li 2024 https://eason.cloud
+
+site_author: Eason Li
+
+site_description: Simple Piracy Guide For Noobs
+
+theme:
+  name: material
+  color_mode: dark
+  user_color_mode_toggle: true
+
+
+nav:
+- Getting Started: 'index.md'
+- Safety Precautions: 'safety-precautions.md'
+- Movies/Anime/TV Shows: 'movies-anime-tv.md'
