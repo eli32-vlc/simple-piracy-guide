@@ -37,10 +37,8 @@ If you're going to use torrent to pirate, you need a VPN.
 - Many more (Google it)
 
 #### Here are my recommendations (not sponsored)
-- NordVPN
 - Mullvad 🌟
 - ProtonVPN 🌟
-- ExpressVPN
 - Windscribe
 
 > I'm using Mullvad right now, and it's really good. Mullvad allows cryptocurrency, which is better for protecting your privacy.
