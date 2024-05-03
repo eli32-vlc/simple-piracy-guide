@@ -10,7 +10,7 @@ Some cracked games may trigger the antivirus; this is a false positive. Just ens
 Clone websites are copies of original legitimate websites. Usually, they contain malware and explicit advertisements. Please double check the URL.
 
 ---
-## Free VPN ON Piracy Website
+## Cracked VPN On Piracy Website
 
 Sometimes, piracy may suggest downloading a VPN to hide your identity. Please use an adblocker, and refrain from downloading cracked VPNs as they usually contain viruses.
 
@@ -31,7 +31,7 @@ Sometimes, piracy may suggest downloading a VPN to hide your identity. Please us
 - GoMovies - Fake Site
 
 ---
-## List of Untrusted Uploaders
+## List Of Untrusted Uploaders
 > Uploaders are individuals who upload torrents to piracy sites like 1337x. Some torrent uploaders can’t be trusted as they often distribute files containing malware. Please stay away from untrusted uploaders.
 
 - IGG Games
