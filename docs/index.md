@@ -31,7 +31,6 @@ If you're going to use torrent to pirate, you need a VPN.
 - India
 - Any third world country
 - Australia (Living in Australia, I've been torrenting for over four years now and have never received a copyright letter.)
-- Russia
 - China
 - Switzerland
 - Many more (Google it)
@@ -86,7 +85,7 @@ Downloading files directly through your browser doesn't typically require any ad
 Usually, your Internet Service Provider (ISP) might block access to piracy websites using a technique called DNS sinkholing. If you're facing sluggish speeds, altering your DNS server can sometimes be beneficial. This is because ISP DNS servers can be smaller and slower. By shifting to a different DNS server, you might encounter enhanced speed and potentially evade any DNS-based restrictions imposed by your ISP.
 
 
-#### Here are my recommendations (not sponsored)
+#### Here are my recommendations 
 
 - Cloudlfare DNS (1.1.1.1) 🌟
 - Google DNS (8.8.8.8)
