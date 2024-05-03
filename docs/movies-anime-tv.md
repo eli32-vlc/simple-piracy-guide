@@ -3,7 +3,7 @@
 > Use an adblocker like uBlock Orgin!!
 
 ---
-## Direct Streaming (Movies)
+## Movies (Direct Streaming)
 - [FMovies🌟](https://fmoviesz.to/)
 - [Braflix🌟](https://www.braflix.video/)
 - [KipFilx🌟](https://kipflix.vercel.app/)
@@ -11,13 +11,13 @@
 - [Watching Zone](https://www.watching.zone/)
 
 ---
-## Direct Download (Movies)
+## Movies (Direct Download)
 - [OlaMovies🌟](https://olamovies.life/)
 - [MovieParadise](https://movieparadise.org/)
 - [VegaMovies](https://vegamovies.earth/)
 
 ---
-## Torrents (Movies)
+## Movies (Torrents)
 - The Pirate Bay (Please only download media.)
 - [1337x🌟 (Please only download media.)](https://1337x.to)
 - [RuTracker🌟 (Please only download media.)](https://rutracker.org/forum/index.php?c=2)
@@ -25,7 +25,7 @@
 - [YTS](https://yts.mx/)
 
 ---
-## Direct Streaming (Anime)
+## Anime (Direct Streaming)
 - [AniWave](https://aniwave.to/)
 - [KickAssAnime🌟](https://kickassanime.mx/)
 - [AllManga](https://allmanga.to/)
@@ -35,12 +35,11 @@
 - [123Anime](https://123animes.ru/)
 
 ---
-## Direct Download (Anime)
-- The Pirate Bay (Please only download media.)
+## Anime (Direct Download)
 - [hi10anime](https://hi10anime.com/)
 - [Tokyo Insider](https://www.tokyoinsider.com/)
 - [1337x](https://1337x.to/popular-anime)
 - [HakuNeko](https://hakuneko.download/)
 
 ---
-## Torrents
+## Anime
