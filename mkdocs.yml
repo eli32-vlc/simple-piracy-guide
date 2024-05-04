@@ -4,6 +4,7 @@ copyright: © Eason Li 2024 https://eason.cloud
 site_author: Eason Li
 
 site_description: Simple Piracy Guide For Noobs
+repo_url: https://github.com/eli32-vlc/simple-piracy-guide
 
 theme:
   name: material
