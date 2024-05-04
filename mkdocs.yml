@@ -8,8 +8,6 @@ repo_url: https://github.com/eli32-vlc/simple-piracy-guide
 
 theme:
   name: material
-  palette:
-    scheme: black grey
 
 
 nav:
