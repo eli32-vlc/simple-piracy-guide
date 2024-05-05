@@ -1,10 +1,9 @@
 site_name: Simple Piracy Guide
-copyright: © Eason Li 2024 https://eason.cloud
+copyright: © Eason Li 2024 https://eason.cloud Made With ❤️ 🐐= Recommanded
 
 site_author: Eason Li
 
 site_description: Simple Piracy Guide For Noobs
-repo_url: https://github.com/eli32-vlc/simple-piracy-guide
 
 theme:
   name: material
@@ -33,4 +32,5 @@ theme:
 nav:
 - Getting Started: 'index.md'
 - Safety Precautions: 'safety-precautions.md'
+- Guide And Tools: 'guides.md'
 - Movies/Anime /TV Shows: 'movies-anime-tv.md'

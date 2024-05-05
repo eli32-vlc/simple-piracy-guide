@@ -28,7 +28,8 @@ Sometimes, piracy may suggest downloading a VPN to hide your identity. Please us
 - SteamUnlocked - Malware
 - ThePirateBay - Surprise! The biggest piracy site on earth sadly can’t be trusted since the original site shut down. Only download media from the pirate bay.
 - GetIntoPC - Malware
-- GoMovies - Fake Site
+- GoMovies/123Movies - Fake Site
+- Any online YouTube downloader - Malware, shitty downloads etc.
 
 ---
 ## List Of Untrusted Uploaders

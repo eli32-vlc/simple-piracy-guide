@@ -18,15 +18,17 @@
 | Seeding | Torrent seeding involves sharing downloaded files with other users, contributing bandwidth to the peer-to-peer network for faster and more reliable distribution. |
 | Download Manager | A download manager is a software that helps you organize, schedule, and accelerate downloading files from the internet. |
 | DNS | DNS, or Domain Name System, acts like a phonebook for the internet, translating human-readable domain names into IP addresses computers understand. |
+| GameRip | Todo PlaceHolder |
+| Repacks | Todo PleacHolder |
 
 ---
-## Choosing a VPN (Torrent)
+## Choosing A VPN (Torrent)
 
 If you're going to use torrent to pirate, you need a VPN.
 
 > Do not use a free VPN for piracy!! Using a free VPN could lead to your data being sold and exposed!
 
-#### You don't need a VPN if you live in any of these countries:
+#### You don't need a VPN if you live in any of these countries
 
 - India
 - Any third world country
@@ -37,19 +39,18 @@ If you're going to use torrent to pirate, you need a VPN.
 
 #### Here are my recommendations (not sponsored)
 - Mullvad 
-- ProtonVPN 🌟
+- ProtonVPN 🐐
 - Windscribe
-- AirVPN 🌟
-
+- AirVPN 🐐
 
 ---
-## Choosing a Torrent Client (Torrent)
+## Choosing A Torrent Client (Torrent)
 
 If you want to download a large file, torrent is the best option. If you want convenience, use a direct download. If you are using direct download you don't need a VPN.
 
 #### Here are my recommendations
-- qBittorrent 🌟
-- Transmission 🌟
+- qBittorrent 🐐
+- Transmission 🐐
 - BiglyBT
 - BitComet
 
@@ -71,9 +72,9 @@ Downloading files directly through your browser doesn't typically require any ad
 
 #### Here are my recommendations (not sponsored)
 
-- Neat Download Manager 🌟
-- Motrix 🌟
-- Internet Download Manager (Paid) 🌟
+- Neat Download Manager 🐐
+- Motrix 🐐
+- Internet Download Manager (Paid) 🐐
 - Free Download Manager
 - JDownloader 2
 
@@ -87,9 +88,10 @@ Usually, your Internet Service Provider (ISP) might block access to piracy websi
 
 #### Here are my recommendations 
 
-- Cloudlfare DNS (1.1.1.1) 🌟
+- Cloudlfare DNS (1.1.1.1) 🐐
 - Google DNS (8.8.8.8)
 - Quad9 (9.9.9.9)
+- NextDNS
 
 ---
 ## Adblock Setup (All)
