@@ -19,7 +19,7 @@
 | Download Manager | A download manager is a software that helps you organize, schedule, and accelerate downloading files from the internet. |
 | DNS | DNS, or Domain Name System, acts like a phonebook for the internet, translating human-readable domain names into IP addresses computers understand. |
 | GameRip | A game rip is unauthorized copying of game data, often distributed online, allowing play without purchasing or proper permission. |
-| Repacks | Todo PleacHolder |
+| Repacks | Repacks are compressed versions of games, often including cracked files, distributed illegally to reduce download size and bypass protections. |
 
 ---
 ## Choosing A VPN (Torrent)
