@@ -25,11 +25,11 @@ Sometimes, piracy may suggest downloading a VPN to hide your identity. Please us
 - Any Dodi Repacks site that its not dodi-repacks.site.
 - kLauncher - Malware
 - Seyter/Qoob - Malware
-- SteamUnlocked - Malware, shitty downloads etc.
+- SteamUnlocked - Malware, slow downloads etc.
 - ThePirateBay - Surprise! The biggest piracy site on earth sadly can’t be trusted since the original site shut down. Only download media from the pirate bay.
 - GetIntoPC - Malware
 - GoMovies/123Movies - Fake Site
-- Any online YouTube downloader - Malware, shitty downloads etc.
+- Any online YouTube downloader - Malware, slow downloads etc.
 
 ---
 ## List Of Untrusted Uploaders
