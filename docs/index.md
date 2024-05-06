@@ -18,7 +18,7 @@
 | Seeding | Torrent seeding involves sharing downloaded files with other users, contributing bandwidth to the peer-to-peer network for faster and more reliable distribution. |
 | Download Manager | A download manager is a software that helps you organize, schedule, and accelerate downloading files from the internet. |
 | DNS | DNS, or Domain Name System, acts like a phonebook for the internet, translating human-readable domain names into IP addresses computers understand. |
-| GameRip | Todo PlaceHolder |
+| GameRip | A game rip is unauthorized copying of game data, often distributed online, allowing play without purchasing or proper permission. |
 | Repacks | Todo PleacHolder |
 
 ---
