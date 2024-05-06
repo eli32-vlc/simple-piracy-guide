@@ -39,3 +39,8 @@ nav:
 - 📺Movies/Anime /TV Shows: 'movies-anime-tv.md'
 - 📖Educational Resources: 'educational-resources.md'
 - 🎮Games: 'games.md'
+
+
+plugins:
+  - search
+  - git-revision-date-localized
