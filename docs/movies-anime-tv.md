@@ -1,6 +1,6 @@
-# Movies/Anime/TV Show
+# 📺 Movies/Anime/TV Show
 
-> Use a adblocker like uBlock Orgin!!
+> Adblocker recommended!!
 
 ---
 ## Movies (Direct Streaming)
@@ -18,9 +18,9 @@
 
 ---
 ## Movies (Torrents)
-- The Pirate Bay (Please only download media.)
-- [1337x🐐 (Please only download media.)](https://1337x.to)
-- [RuTracker🐐 (Please only download media.)](https://rutracker.org/forum/index.php?c=2)
+- The Pirate Bay (Proceed with caution.)
+- [1337x🐐](https://1337x.to)(Proceed with caution.)
+- [RuTracker🐐](https://rutracker.org/forum/index.php?c=2)(Proceed with caution.)
 - [TorrentGalaxy Movies🐐](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)
 - [YTS🐐](https://yts.mx/)
 
@@ -42,7 +42,7 @@
 
 ---
 ## Anime (Torrents)
-- The Pirate Bay (Please only download media.)
+- The Pirate Bay (Proceed with caution.)
 - [1337x🐐](https://1337x.to/popular-anime)
 - [Nyaa](https://nyaa.si/)
 - [ShanaProject](https://www.shanaproject.com/)

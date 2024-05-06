@@ -1,4 +1,4 @@
-# Safety Precautions
+# ⚠️ Safety Precautions
 ---
 ## Antivirus
 
@@ -21,11 +21,11 @@ Sometimes, piracy may suggest downloading a VPN to hide your identity. Please us
 - TLauncher - Spyware
 - AimHaven - Unsafe Link
 - RARBG - Used to be trusted, things went downhill when they shut down their official website.
-- Any FitGirl website that its not fitgirl-repacks.site
-- Any Dodi Repacks site that its not dodi-repacks.site
+- Any FitGirl website that its not fitgirl-repacks.site.
+- Any Dodi Repacks site that its not dodi-repacks.site.
 - kLauncher - Malware
 - Seyter/Qoob - Malware
-- SteamUnlocked - Malware
+- SteamUnlocked - Malware, shitty downloads etc.
 - ThePirateBay - Surprise! The biggest piracy site on earth sadly can’t be trusted since the original site shut down. Only download media from the pirate bay.
 - GetIntoPC - Malware
 - GoMovies/123Movies - Fake Site
