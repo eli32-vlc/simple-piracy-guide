@@ -2,6 +2,7 @@
 ---
 
 > Please note that you might need to disable your antivirus. Please read 'Guides and Tools' for more information. Ensure that you read the Safety Precautions. Also, make sure to use an ad blocker!
+
 ---
 ## PC Games (GameRip)
 
