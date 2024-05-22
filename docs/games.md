@@ -14,6 +14,7 @@
 ---
 ## PC Games (Repacks)
 
+- [Zenith Rifle Repacks🐐](https://repacks.zenith.fr.to)
 - [DODI Repacks🐐](https://dodi-repacks.site/)
 - [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)
 - [FitGirl Repacks🐐](https://fitgirl-repacks.site/)
