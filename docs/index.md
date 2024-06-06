@@ -31,14 +31,14 @@ If you're going to use torrent to pirate, you need a VPN.
 #### You don't need a VPN if you live in any of these countries
 
 - India
-- Any third world country
+- Any third-world country
 - Australia (Living in Australia, I've been torrenting for over four years now and have never received a copyright letter.)
 - China
 - Switzerland
 - Many more (Google it)
 
 #### Here are my recommendations (not sponsored)
-- Mullvad 
+- PIA 🐐
 - ProtonVPN 🐐
 - Windscribe
 - AirVPN 🐐
