@@ -88,9 +88,9 @@ Usually, your Internet Service Provider (ISP) might block access to piracy websi
 
 #### Here are my recommendations 
 
-- Cloudlfare DNS (1.1.1.1) 🐐
+- Cloudflare DNS (1.1.1.1) 🐐
 - Google DNS (8.8.8.8)
-- Quad9 (9.9.9.9)
+- UncensoredDNS (91.239.100.100) (89.233.43.71) 🐐
 - NextDNS
 
 ---
