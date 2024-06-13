@@ -44,3 +44,9 @@ nav:
 plugins:
   - search
   - git-revision-date-localized
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-L5Y4TXKC6F
