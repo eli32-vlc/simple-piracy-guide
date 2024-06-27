@@ -15,6 +15,7 @@
 - [OlaMovies🐐](https://olamovies.life/)
 - [MovieParadise](https://movieparadise.org/)
 - [VegaMovies](https://vegamovies.earth/)
+- [Vadapav.mov🐐](https://vadapav.mov/) [Enhancement](https://greasyfork.org/en/scripts/496099)
 
 ---
 ## Movies (Torrents)
