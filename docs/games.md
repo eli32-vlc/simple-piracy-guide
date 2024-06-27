@@ -35,7 +35,7 @@
 - [AlvRo (use a base64 decoder\)](https://rentry.co/FMHYBase64#alvro)
 
 ---
-## Abandonware
+## Abandonware (Direct Download)
 
 - [My abandonware🐐](https://www.myabandonware.com/)
 - [Abandonware games](https://abandonwaregames.net/)
