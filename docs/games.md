@@ -6,34 +6,34 @@
 ---
 ## PC Games (GameRip)
 
-- [GamesDrive🐐](https://gamesdrive.net/) - download | [DISCORD](https://discord.gg/wXdNEhf73x) | [TELEGRAM](https://t.me/+qkrAOiq7k7ozNzRk) | [DIVOLT](https://gamesdrive.divolt.xyz/)
-- [GOG Games🐐](https://gog-games.to/) - download  | [.ONION] 
-- [SteamRIP🐐](https://steamrip.com/) - download | torrent | pre-installs | [DISCORD](https://discord.gg/ycDt32VpPH)
-- [OvaGames🐐](https://www.ovagames.com/) - download | RECCOMMENDED USE OF A SHORTLINK BYPASSER
-- [Online Fix🐐](https://online-fix.me/) - multiplayer bypass for pirated games | [DISCORD](https://discord.gg/yExgFYncMD)
-- [Torrminatorr](https://forum.torrminatorr.com/) - download
+- [GamesDrive🐐](https://gamesdrive.net/) - Download | [DISCORD](https://discord.gg/wXdNEhf73x) | [TELEGRAM](https://t.me/+qkrAOiq7k7ozNzRk) | [DIVOLT](https://gamesdrive.divolt.xyz/)
+- [GOG Games🐐](https://gog-games.to/) - Download  | [.ONION](http://goggamespyi7b6ybpnpnlwhb4md6owgbijfsuj6z5hesqt3yfyz42rad.onion/)
+- [SteamRIP🐐](https://steamrip.com/) - Download | Torrent | Pre-Installs | [DISCORD](https://discord.gg/ycDt32VpPH)
+- [OvaGames🐐](https://www.ovagames.com/) - Download | RECCOMMENDED USE OF A SHORTLINK BYPASSER
+- [Online Fix🐐](https://online-fix.me/) - Multiplayer Bypass For Pirated Games | [DISCORD](https://discord.gg/yExgFYncMD)
+- [Torrminatorr](https://forum.torrminatorr.com/) - Download
 
 ---
 ## PC Games (Repacks)
 
-- [DODI Repacks🐐](https://dodi-repacks.site/)
-- [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)
-- [FitGirl Repacks🐐](https://fitgirl-repacks.site/)
-- [KaosKrew🐐](https://kaoskrew.org/)
-- [Xatab Repacks🐐](https://byxatab.com/)
-- [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy)
-- [FreeGOGPCGames](https://freegogpcgames.com/)
-- [ElAmigos](https://elamigos.site/)
+- [DODI Repacks🐐](https://dodi-repacks.site/) - Torrent | [DISCORD](https://discord.gg/uE273qJ) | [FORUM](https://dodi-forums.win/) | [OPERA BYPASS](https://rentry.co/lootlink)
+- [FitGirl Repacks🐐](https://fitgirl-repacks.site/)  - Download | Torrent | ROM Repacks | [DISCORD](https://discord.gg/Up3YARe4RW)
+- [KaosKrew🐐](https://kaoskrew.org/) - Download | Torrent | [DISCORD](https://discord.com/invite/WF2pqPTFBs)
+- [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - Download
+- [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - Download | Torrent
+- [FreeGOGPCGames](https://freegogpcgames.com/) - GOG Games Torrent Uploads | [HASH NOTE](https://pastebin.com/pNMj3nay)
+- [ElAmigos](https://elamigos.site/) - Download
+- [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download | [DISCORD](https://discord.gg/693hNBdymb)
 
 ---
 ## ROMs (Direct Download)
 
-- [r/ROMs🐐](https://reddit.com/r/roms)
-- [Vimms Lair🐐](https://vimm.net/)
-- [AlvRo (use a base64 decoder\)](https://rentry.co/FMHYBase64#alvro)
+- [r/ROMs🐐](https://reddit.com/r/roms) - Roms
+- [Vimms Lair🐐](https://vimm.net/) - Emulators | ROMS
+- [AlvRo (use a base64 decoder\)🐐](https://rentry.co/FMHYBase64#alvro) - ROMs | pw: ByAlvRo
 
 ---
 ## Abandonware (Direct Download)
 
-- [My abandonware🐐](https://www.myabandonware.com/)
-- [Abandonware games](https://abandonwaregames.net/)
+- [My abandonware🐐](https://www.myabandonware.com/) - Abandonware
+- [Abandonware games](https://abandonwaregames.net/) - Abandonware
