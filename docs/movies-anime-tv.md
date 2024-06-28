@@ -4,8 +4,8 @@
 
 ---
 ## Movies (Direct Streaming)
-- [FMovies🐐](https://fmoviesz.to/)
-- [Braflix🐐](https://www.braflix.video/)
+- [FMovies🐐](https://fmoviesz.to/) - Movies ⏐ TV ⏐ Anime ⏐ 1080p ⏐ [MIRRORS](https://fmhy.net/storage#fmovies-clones)
+- [Braflix🐐](https://www.braflix.video/) 
 - [KipFilx🐐](https://kipflix.vercel.app/)
 - [UpMovies](https://upmovies.net/)
 - [Watching Zone](https://www.watching.zone/)
