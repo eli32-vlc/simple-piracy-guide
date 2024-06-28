@@ -6,14 +6,12 @@
 ---
 ## PC Games (GameRip)
 
-
-
-- [Online Fix🐐](https://online-fix.me/)
-- [GamesDrive🐐](https://gamesdrive.net/)
-- [Torrminatorr](https://forum.torrminatorr.com/)
-- [GOG Games🐐](https://gog-games.to/)
-- [SteamRIP🐐](https://steamrip.com/)
-- [OvaGames🐐](https://www.ovagames.com/)
+- [GamesDrive🐐](https://gamesdrive.net/) - download | [DISCORD](https://discord.gg/wXdNEhf73x) | [TELEGRAM](https://t.me/+qkrAOiq7k7ozNzRk) | [DIVOLT](https://gamesdrive.divolt.xyz/)
+- [GOG Games🐐](https://gog-games.to/) - download  | [.ONION] 
+- [SteamRIP🐐](https://steamrip.com/) - download | torrent | pre-installs | [DISCORD](https://discord.gg/ycDt32VpPH)
+- [OvaGames🐐](https://www.ovagames.com/) - download | RECCOMMENDED USE OF A SHORTLINK BYPASSER
+- [Online Fix🐐](https://online-fix.me/) - multiplayer bypass for pirated games | [DISCORD](https://discord.gg/yExgFYncMD)
+- [Torrminatorr](https://forum.torrminatorr.com/) - download
 
 ---
 ## PC Games (Repacks)
