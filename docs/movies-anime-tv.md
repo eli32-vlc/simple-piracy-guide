@@ -4,7 +4,6 @@
 
 ---
 ## Movies (Direct Streaming)
-- [FMovies🐐](https://fmoviesz.to/)
 - [Braflix🐐](https://www.braflix.video/) 
 - [KipFilx🐐](https://kipflix.vercel.app/)
 - [UpMovies](https://upmovies.net/)
