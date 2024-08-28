@@ -18,7 +18,6 @@
 
 ---
 ## Movies (Torrents)
-- The Pirate Bay (Proceed with caution.)
 - [1337x🐐](https://1337x.to)(Proceed with caution.)
 - [RuTracker🐐](https://rutracker.org/forum/index.php?c=2)(Proceed with caution.)
 - [TorrentGalaxy Movies🐐](https://torrentgalaxy.to/torrents.php?parent_cat=Movies)
@@ -26,7 +25,6 @@
 
 ---
 ## Anime (Direct Streaming)
-- [AniWave](https://aniwave.to/)
 - [KickAssAnime🐐](https://kickassanime.mx/)
 - [AllManga](https://allmanga.to/)
 - [AnimePahe](https://animepahe.ru/)
@@ -42,7 +40,6 @@
 
 ---
 ## Anime (Torrents)
-- The Pirate Bay (Proceed with caution.)
 - [1337x🐐](https://1337x.to/popular-anime)
 - [Nyaa](https://nyaa.si/)
 - [ShanaProject](https://www.shanaproject.com/)
