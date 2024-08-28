@@ -19,8 +19,9 @@ Sometimes, piracy may suggest downloading a VPN to hide your identity. Please us
 
 - IGG Games/ PCGamesTorrents/ LoadGames/ GamesTorrents - often package their downloads with DRM and cryptocurrency miners
 - TLauncher - Spyware
+- AniWave - Used to be trusted, things went downhill when they shut down their official website.
+- fmovies - Used to be trusted, things went downhill when they shut down their official website.
 - AimHaven - Unsafe Link
-- RARBG - Used to be trusted, things went downhill when they shut down their official website.
 - Any FitGirl website that its not fitgirl-repacks.site.
 - Any Dodi Repacks site that its not dodi-repacks.site.
 - kLauncher - Malware
