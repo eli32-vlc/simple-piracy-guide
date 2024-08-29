@@ -10,11 +10,6 @@ Some cracked games may trigger the antivirus; this is a false positive. Just ens
 Clone websites are copies of original legitimate websites. Usually, they contain malware and explicit advertisements. Please double check the URL.
 
 ---
-## Cracked VPN On Piracy Website
-
-Sometimes, piracy may suggest downloading a VPN to hide your identity. Please use an adblocker, and refrain from downloading cracked VPNs as they usually contain viruses.
-
----
 ## List Of Untrusted Site
 
 - IGG Games/ PCGamesTorrents/ LoadGames/ GamesTorrents - often package their downloads with DRM and cryptocurrency miners
