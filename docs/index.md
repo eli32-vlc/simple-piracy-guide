@@ -38,7 +38,6 @@ If you're going to use torrent to pirate, you need a VPN.
 - Many more (Google it)
 
 #### Here are my recommendations (not sponsored)
-- PIA 🐐
 - ProtonVPN 🐐
 - Windscribe
 - AirVPN 🐐
