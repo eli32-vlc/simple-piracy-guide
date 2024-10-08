@@ -4,17 +4,22 @@
 
 ---
 ## Movies (Direct Streaming)
-- [Braflix🐐](https://www.braflix.video/) 
+- [Braflix🐐](https://www.braflix.video/)
 - [KipFilx🐐](https://kipflix.vercel.app/)
 - [UpMovies](https://upmovies.net/)
 - [Watching Zone](https://www.watching.zone/)
+- [NetPlay](https://netplayz.ru/)
+- [kipwatch](https://kipwatch.xyz/)
+- [VidPlay](https://vidplay.org/)
+- [Piracy App](https://www.piracy.su/)
 
 ---
 ## Movies (Direct Download)
 - [OlaMovies🐐](https://olamovies.life/)
 - [MovieParadise](https://movieparadise.org/)
 - [VegaMovies](https://vegamovies.earth/)
-- [Vadapav.mov🐐](https://vadapav.mov/) [Enhancement](https://greasyfork.org/en/scripts/496099)
+- [Vadapav.mov🐐](https://vadapav.mov/) [Enhancement](https://greasyfork.org/en/scripts/496099) (Do not use a download manager otherwise your IP will be banned!!!)
+- [StarsDDL](https://starsddl.me/)
 
 ---
 ## Movies (Torrents)
@@ -40,6 +45,6 @@
 
 ---
 ## Anime (Torrents)
-- [Nyaa](https://nyaa.si/)
+- [Nyaa🐐](https://nyaa.si/)
 - [ShanaProject](https://www.shanaproject.com/)
-- [1337x🐐](https://1337x.to/popular-anime)
+- [1337x](https://1337x.to/popular-anime)

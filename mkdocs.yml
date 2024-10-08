@@ -6,8 +6,8 @@ site_author: Eason Li
 site_description: Simple Piracy Guide For Noobs
 
 theme:
-  name: material  
-  favicon: 
+  name: material
+  favicon:
   icon:
     logo: material/pirate
   palette:
@@ -30,21 +30,18 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
 
-    
-
 nav:
-- 🏴‍☠️Getting Started: 'index.md'
-- ⚠️Safety Precautions: 'safety-precautions.md'
-- 🧾Guide And Tools: 'guides.md'
-- 📺Movies/Anime /TV Shows: 'movies-anime-tv.md'
-- 📖Educational Resources: 'educational-resources.md'
-- 🎮Games: 'games.md'
-
+  - 🏴‍☠️Getting Started: "index.md"
+  - ⚠️Safety Precautions: "safety-precautions.md"
+  - 📺Movies/Anime /TV Shows: "movies-anime-tv.md"
+  - 📖Educational Resources: "educational-resources.md"
+  - 🎮Games: "games.md"
+  - ❗Private Trackers: "private-trackers.md"
+  - 🗃️Random: "random.md"
 
 plugins:
   - search
   - git-revision-date-localized
-
 
 extra:
   analytics:

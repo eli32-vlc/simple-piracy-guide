@@ -6,17 +6,18 @@
 ---
 ## PC Games (GameRip)
 
-- [GamesDrive🐐](https://gamesdrive.net/) 
-- [GOG Games🐐](https://gog-games.to/) 
-- [SteamRIP🐐](https://steamrip.com/) 
-- [OvaGames🐐](https://www.ovagames.com/) 
-- [Online Fix🐐](https://online-fix.me/) 
-- [Torrminatorr](https://forum.torrminatorr.com/) 
+- [GamesDrive🐐](https://gamesdrive.net/)
+- [GOG Games🐐](https://gog-games.to/)
+- [SteamRIP🐐](https://steamrip.com/)
+- [OvaGames🐐](https://www.ovagames.com/)
+- [Online Fix🐐](https://online-fix.me/)
+- [Torrminatorr](https://forum.torrminatorr.com/)
 
 ---
 ## PC Games (Repacks)
 
-- [DODI Repacks🐐](https://dodi-repacks.site/) 
+- [DODI Repacks🐐](https://dodi-repacks.site/)
+- [Zenith Rifle Repacks🐐](https://zenith-repacks.pages.dev/)
 - [FitGirl Repacks🐐](https://fitgirl-repacks.site/)
 - [KaosKrew🐐](https://kaoskrew.org/)
 - [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks)
